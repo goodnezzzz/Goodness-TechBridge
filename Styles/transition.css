@@ -1,0 +1,29 @@
+.box{
+    height: 300px;
+    width: 500px;
+    /* margin: 50px 200px; */
+    background-color: aqua;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    /* translate: 10px 10px; */
+    /* transition-property: translate;
+    transition: ; */
+}
+/* @keyframes example{
+    0% {
+        transform: scale(0  4);
+    }
+    50%{
+        background-color: blueviolet;
+    }
+    100%{
+        transform: scale(2);
+    }
+} */
+@media screen and (max-width: 700px) {
+    .box{
+        width: 50%;
+        height: 300px;
+    }   
+}

@@ -1,0 +1,23 @@
+*{box-sizing: border-box;}
+.one{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+    background:linear-gradient(to right, #ff7e5f,#fe7bc3) ;
+}
+.two{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+    background:linear-gradient(to right, #ff7e5f,#feb47b) 
+}
+.three{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+    background:radial-gradient(circle, #ff7e5f, #be1616)
+
+}

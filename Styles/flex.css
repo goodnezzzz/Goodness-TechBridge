@@ -1,0 +1,17 @@
+.flex-container{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-around;
+    
+
+}
+.flex{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    -webkit-text-fill-color: aliceblue;
+    font-weight: bold;
+}

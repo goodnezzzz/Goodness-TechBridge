@@ -1,0 +1,121 @@
+*{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.dob{
+    width: 158px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: grey;
+    font-size: 12px;
+    font-weight: bold;
+} 
+.facebook-container{
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    box-shadow: 0 0 4px grey;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 0;
+}
+.intro-text{
+    text-align: center;
+    color: grey;
+    margin-top: 0;
+}
+.Date-of-birth{
+    margin-bottom: 1px;
+    color: grey;
+}
+#first-name{
+    width: 229px;
+    margin-right: 6px;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 12px;
+    border-color: grey;
+    border: 1px solid grey;
+
+}
+#surname{
+    width: 229px;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 12px;
+    border-color: grey;
+    border: 1px solid grey;
+}
+.main-div{
+    margin-left: 10px;
+}
+.female{
+    border: 1px solid grey;
+    width: 155px;
+    height: 25px ;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.male{
+    border: 1px solid grey;
+    width: 156px;
+    height: 25px ;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.custom{
+    border: 1px solid grey;
+    width: 156px;
+    height: 25px ;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.p-gender{
+    margin-bottom: 1px;
+    color: grey;
+}
+#male{
+    margin: 6px 0 0 100px;
+}
+#female{
+    margin: 6px 0 0 90px;  
+}
+#custom{
+    margin: 6px 0 0 90px;
+}
+#number, #password{
+    display: block;
+    width: 473px;
+    margin-top: 10px;
+    /* box-sizing: border-box; */
+    height: 25px;
+    border-radius: 5px;
+    font-size: 12px;
+    border: 1px solid grey;
+}
+.button{
+    text-align: center;
+}
+button{
+    height: 25px;
+    width: 150px;
+    background-color: rgb(22, 134, 22);
+    color: white;
+    font-size: 14px;
+    box-shadow: none;
+    border: 0;
+    border-radius: 5px;
+}
+span{
+    color: blue;
+}
+#footer{
+    color: blue;
+    text-align: center;
+    font-size: 14px;
+}
+.terms{
+    margin: 30px 0;
+}
